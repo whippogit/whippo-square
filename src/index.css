@@ -1,0 +1,65 @@
+.color-acent {
+  /*color: #4bb3fd;*/
+  color: #0081b1;
+}
+
+a {
+  text-decoration: none;
+}
+
+.li:hover {
+  background-color: #f0f0f0;
+}
+
+.bg-acent {
+  background-color: #0081b1;
+}
+
+.bg-form {
+  background-color: #f9fafb;
+  border: 1px solid #988e8e;
+}
+
+.color-letras {
+  color: #988e8e;
+}
+
+.bg-gradiente {
+  background: #0081b1;
+  height: 960px;
+}
+
+.fs-h1-config {
+  font-size: 80px;
+  margin-top: 200px;
+  text-shadow: #f9fafb 1px 0 10px;
+}
+
+.w-lenguajes {
+  width: 200px;
+  filter: grayscale(100%);
+}
+
+.w-config-whippo-blanco {
+  width: 40px;
+}
+
+.w-config-aguara {
+  width: 350px;
+}
+
+.w-img-user {
+  width: 120px;
+  margin-top: 100px;
+}
+
+.hr {
+  margin-top: 300px;
+}
+
+.github-logo {
+  width: 30px;
+  filter: opacity(50%);
+}
+
+
